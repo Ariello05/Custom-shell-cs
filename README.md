@@ -1,4 +1,5 @@
 # CustomShell
+Made for IT studies
 
 Supported:
             &
