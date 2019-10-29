@@ -8,8 +8,10 @@ Zombie handler
 
 ## Installation
 download lsh.c
-compile lsh.c by using gcc
-            
-eg. after compiling
-lsh> sleep5&,
-lsh> ls -l | sort
+compile lsh.c by using gcc -o lsh lsh.c
+run by ./lsh
+
+## Usage
+Type help after running
+            lsh> sleep5&,
+            lsh> ls -l | sort
