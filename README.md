@@ -13,5 +13,6 @@ run by ./lsh
 
 ## Usage
 Type help after running
+
             lsh> sleep5&,
             lsh> ls -l | sort
