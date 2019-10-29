@@ -2,9 +2,9 @@
 Custom shell written for Linux as a part of college class.
 
 ## Supported: 
-&,
-Single pipe |,
-Zombie handler
+* &,
+* Single pipe |,
+* Zombie handler
 
 ### Builtin commands:
 * help - list of commands,
@@ -13,12 +13,14 @@ Zombie handler
 * exit - exit lsh
 
 ## Installation
-download lsh.c
-compile lsh.c by using gcc -o lsh lsh.c
-run by ./lsh
+1. download lsh.c
+2. compile lsh.c by using gcc -o lsh lsh.c
+3. run by ./lsh
 
 ## Usage
-            lsh> sleep5&,
-            lsh> jobs
-            lsh> ls -l | sort
-            lsh> exit
+``` 
+lsh> sleep5&,
+lsh> jobs
+lsh> ls -l | sort
+lsh> exit
+```
