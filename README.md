@@ -7,10 +7,10 @@ Single pipe |,
 Zombie handler
 
 ### Builtin commands:
-help - list of commands
-jobs - lists all jobs created in lsh
-kill id - kills job identifed by id
-exit - exit lsh
+* help - list of commands,
+* jobs - lists all jobs created in lsh,
+* kill id - kills job identifed by id,
+* exit - exit lsh
 
 ## Installation
 download lsh.c
